@@ -13,7 +13,7 @@
 - **2022.06.21**  KT 창의혁신리더 장학생
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-haram&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-haram&show_icons=true)
 
 <!--
 **choi-haram/choi-haram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
