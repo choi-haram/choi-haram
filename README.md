@@ -13,8 +13,9 @@
 - **2022.06.21**  KT 창의혁신리더 장학생
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-haram&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-haram&layout=compact&langs_count=8&hide=Shell)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-haram&theme=vue&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-haram&theme=vue&layout=compact&langs_count=8&hide=Shell)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
