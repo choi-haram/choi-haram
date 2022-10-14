@@ -1,23 +1,16 @@
-# 최하람
+<div align='center'>
 
-- **2019.03.04**   안동대학교 기계공학과 입학
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Haram's%20GitHub&fontSize=70&animation=scaleIn)
 
-- **2019.07.25**   군휴학
 
-- **2021.09.01**   복학
-
-- **2022.01.19**   컴퓨터공학과 전과
-
-- **2022.04.01**  NGN LAB 학생연구원
-
-- **2022.06.21**  KT 창의혁신리더 장학생
+## 👋 Welcome
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-haram&theme=vue&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-haram&theme=vue&layout=compact&langs_count=8&hide=Shell)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
 <!--
 **choi-haram/choi-haram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
