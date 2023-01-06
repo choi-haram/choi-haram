@@ -5,11 +5,11 @@
 
 ## 👋 Welcome
 
-<!-- 오류로 인한 비활성화
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-haram&theme=vue&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-haram&theme=vue&layout=compact&langs_count=8&hide=Shell)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
   
 </div>
