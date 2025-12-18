@@ -11,7 +11,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389101/github-profile-3d-contrib@0.7.1
+      - uses: - uses: yoshi389101/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }} # 당신의 GitHub 사용자 이름이 자동으로 들어갑니다.
